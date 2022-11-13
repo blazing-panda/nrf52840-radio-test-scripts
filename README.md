@@ -1,0 +1,1 @@
+python scripts for the first exercise in short-range wireless communication.
